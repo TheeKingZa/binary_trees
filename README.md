@@ -9,17 +9,27 @@
     A binary tree is a hierarchical data structure in which each
     node has at most two children,
     referred to as the left child and the right child.
-    It is used to represent hierarchical structures like family trees, file systems, and more.
+    It is used to represent hierarchical structures
+    like family trees, file systems, and more.
 
 ## Binary Tree vs. Binary Search Tree
 
-    A Binary Search Tree (BST) is a special type of binary tree where the left subtree contains nodes with values less than the root node,
-and the right subtree contains nodes with values greater than the root node.
-This property allows for efficient searching and sorting operations.
+    A Binary Search Tree (BST) is a special type of binary tree
+    where the left subtree contains nodes with values less than
+    the root node,
+    and the right subtree contains nodes with
+    values greater than the root node.
+    This property allows for efficient
+    searching and sorting operations.
 
 ## Time Complexity vs. Linked Lists
 
-    Compared to linked lists, binary trees can offer significant improvements in time complexity for various operations. Searching, insertion, and deletion in a well-balanced binary tree can have a time complexity of O(log N), which is much more efficient than linear time complexity (O(N)) for linked lists.
+    Compared to linked lists, binary trees can offer significant
+    improvements in time complexity for various operations.
+    Searching, insertion, and deletion in a well-balanced binary
+    tree can have a time complexity of O(log N), which is much
+    more efficient than linear time complexity (O(N))
+    for linked lists.
 
 ## Binary Tree Terminology
 
