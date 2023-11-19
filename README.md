@@ -33,7 +33,7 @@
 
 ## Binary Tree Terminology
 
-    - **Depth**: The depth of a node is the length of the path from the root to that node.
+- **Depth**: The depth of a node is the length of the path from the root to that node.
 
     - **Height**: The height of a binary tree is the length of the longest path from the root to a leaf node. It represents the depth of the deepest node.
 
