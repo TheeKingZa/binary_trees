@@ -6,7 +6,8 @@
 
 ## What is a Binary Tree?
 
-    A binary tree is a hierarchical data structure in which each node has at most two children,
+    A binary tree is a hierarchical data structure in which each
+    node has at most two children,
     referred to as the left child and the right child.
     It is used to represent hierarchical structures like family trees, file systems, and more.
 
